@@ -1,0 +1,12 @@
+.imgfooter{
+    background-image: url(../../../assets/img/banner.jpg);
+    background-size: cover;
+    border-radius: 50px;
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+}
+.footer{
+    display: flex;
+    background-color: aqua;
+}
