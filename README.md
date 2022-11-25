@@ -6,22 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+# CONTENIDO
+<img src="https://firebasestorage.googleapis.com/v0/b/fotosfirebase-c278c.appspot.com/o/cabecerareadme.png?alt=media&token=9b636c33-7007-4292-9d16-fe076b85686f" width="900" height="400" align="center" alt="MEME PRESENTACIÓN"/>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+<img src="https://firebasestorage.googleapis.com/v0/b/fotosfirebase-c278c.appspot.com/o/descripcionread.png?alt=media&token=fb2de366-a72c-4d3c-9fcc-a28eb94bb51f" width="900" height="400" align="center" alt="cabecera"/>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<img src="https://firebasestorage.googleapis.com/v0/b/fotosfirebase-c278c.appspot.com/o/habitacionesread.png?alt=media&token=a8c7e11c-098e-4179-9426-4820a8dc8a1d" width="900" height="400" align="center" alt="cabecera"/>
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
