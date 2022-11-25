@@ -10,3 +10,27 @@
     display: flex;
     background-color: aqua;
 }
+ul,li{
+
+    text-decoration: none;
+    list-style-type: none;
+
+}
+ul{
+    margin-top: 50px;
+}
+.ubicacion{
+    background-image: url(../../../assets/img/ubicacionHotel.png);
+    width: 700px;
+    height: 200px;
+    background-size: cover;
+    margin-left: 20px;
+
+}
+.logof{
+    background-image: url(../../../assets/img/logohotelf.png);
+    width: 500px;
+    height: 200px;
+    background-size: cover;
+    margin-left: 20px;
+}
